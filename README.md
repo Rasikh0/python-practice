@@ -1,3 +1,3 @@
 # python-practice
 
-Documenting my python practice and my progress here. 
+Documenting my python practices and progress here. 
